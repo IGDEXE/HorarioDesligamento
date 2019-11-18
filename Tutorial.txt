@@ -1,0 +1,8 @@
+Estrutura de pasta: 
+Para funcionar, o script[InfoPC.ps1] precisa estar dentro de C:\TI\ValidarHorario
+O arquivo [Verificar.bat] pode estar em qualquer local
+O arquivo [ListaComputadores.txt] precisa estar na pasta: C:\TI\ValidarHorario
+
+Como utilizar?
+Salvar os computadores[Hostname ou IP] dentro da lista ListaComputadores.txt, um por linha
+Executar o arquivo Verificar.bat como administrador
